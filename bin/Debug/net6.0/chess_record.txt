@@ -1,0 +1,12 @@
+White Knight at b1 moved to c3
+White Knight at b1 moved to c3
+White Knight at b1 moved to c3
+Black Knight at b8 moved to c6
+White Knight at c3 moved to b5
+White Pawn at e2 moved to e3
+Black Pawn at a7 moved to a8
+White Pawn at d2 moved to d3
+Black Knight at b8 moved to c6
+White Pawn at e2 moved to e3
+Black Pawn at a7 moved to a8
+White Knight at b1 moved to a3
